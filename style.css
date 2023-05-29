@@ -1,0 +1,121 @@
+body {
+  text-align: center;
+  background-color: #D4AACF;
+  background-image: url("https://media3.giphy.com/media/abt3O3BEwR6wg/giphy.gif?cid=ecf05e47hh70ahef288rhibbw03m36iau18husspser0lpsa&ep=v1_gifs_search&rid=giphy.gif&ct=g");
+}
+
+h1 {
+  font-size: 5rem;
+  color: #FCEBFA;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+p{
+  color:#FCEBFA;
+}
+
+footer {
+  color: #FCEBFA;
+  font-family: sans-serif;
+}
+
+.a {
+  background-image: url("https://charts-static.billboard.com/img/2022/10/taylor-swift-824-antihero-fgo-180x180.jpg");
+}
+
+.b {
+background-image: url("https://charts-static.billboard.com/img/2022/12/sza-mhq-killbill-6i8-180x180.jpg");
+}
+
+.c {
+background-image: url("https://charts-static.billboard.com/img/2022/10/sam-smith-jw8-unholy-7a7-180x180.jpg");
+}
+
+.d {
+background-image: url("https://charts-static.billboard.com/img/2022/09/david-guetta-ruw-imgoodblue-d17-180x180.jpg");
+}
+
+.e {
+background-image: url("https://charts-static.billboard.com/img/2013/08/metro-boomin-nxb-180x180.jpg");
+}
+
+.f {
+background-image: url("https://charts-static.billboard.com/img/2016/12/the-weeknd-jlk-dieforyou-ix0-180x180.jpg");
+}
+
+.g {
+background-image: url("https://charts-static.billboard.com/img/2009/04/drake-04g-180x180.jpg");
+}
+
+.h {
+background-image: url("https://charts-static.billboard.com/img/2022/04/harry-styles-6jk-asitwas-po3-180x180.jpg");
+}
+
+.i {
+background-image: url("https://charts-static.billboard.com/img/2022/07/steve-lacy-d2o-badhabit-l6b-180x180.jpg");
+}
+
+.j {
+background-image: url("https://charts-static.billboard.com/img/2022/05/zach-bryan-cfd-something-in-the-orange-ynj-180x180.jpg");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.song {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 700;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  margin: 10px;
+  align: left;
+}
+
+.textt
+{
+  font-size: 1rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 800;
+  text-align: center;
+  color: #D4AACF;
+
+
+}
+
+.cont
+{
+  background-color:none;
+  align-content: left;
+}
+
+.conta
+{
+  background-color: #FCEBFA;
+  align-content: left;
+}
